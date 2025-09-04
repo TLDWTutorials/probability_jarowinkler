@@ -5,6 +5,8 @@ This example uses `recordlinkage` Python module with Jaro-Winkler string similar
 
 Outputs include **every original column from both files** (with `df1_` / `df2_` prefixes) so you can audit results easily.
 
+I also made a short YouTube video demonstrating how to use this: https://youtu.be/NBIFKW6NT-Q
+
 ---
 
 ## What it does
